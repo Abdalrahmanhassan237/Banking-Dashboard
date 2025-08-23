@@ -1,0 +1,12 @@
+{
+    "name": "Custom Teal Theme",
+    "dataColors": [
+        "#29615D",
+        "#14B8A6",
+        "#29615D",
+        "#F3F6F6"
+    ],
+    "background": "#F3F6F6",
+    "foreground": "#29615D",
+    "tableAccent": "#14B8A6"
+}
